@@ -6,10 +6,10 @@ Welcome to my NLP learning journey! This syllabus covers fundamental and advance
 ### Week 1: Proposed Syllabus
 
 ### Week 2: Text preprocessing 
-|--- Tokenizer; Vectorization; Stopwords; Lemmatization; Normalization
-|--- Bagofwords; TFIDF; Unigram; Bigram
+- Tokenizer; Vectorization; Stopwords; Lemmatization; Normalization
+- Bagofwords; TFIDF; Unigram; Bigram
 
 ### Week 3: Text Embeddings
-|--- Word Embedding; Word2Vec; Average word2vec; Doc2Vec
+- Word Embedding; Word2Vec; Average word2vec; Doc2Vec
 
 
